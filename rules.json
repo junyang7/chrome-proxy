@@ -1,0 +1,23 @@
+[
+  {
+    "id": "887c7604-68ff-45bb-b30d-68f08fb45ef3",
+    "pattern": "*.whistlejs.com",
+    "priority": 1,
+    "server": "127.0.0.1:8899",
+    "state": 1
+  },
+  {
+    "id": "78ed192c-4255-49bf-bbb8-b062d46fe362",
+    "pattern": "*.weibo.com",
+    "priority": 1,
+    "server": "127.0.0.1:8899",
+    "state": 1
+  },
+  {
+    "id": "d9fef9f0-cc9e-47cf-b2c7-4f3d8367c61f",
+    "pattern": "*",
+    "priority": 2,
+    "server": "127.0.0.1:7897",
+    "state": 1
+  }
+]
