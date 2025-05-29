@@ -14,6 +14,13 @@
     "state": 1
   },
   {
+    "id": "9560d61b-c9f1-4c95-8e42-12e9a764b2d1",
+    "pattern": "*.sina.com.cn",
+    "priority": 1,
+    "server": "127.0.0.1:8899",
+    "state": 1
+  },
+  {
     "id": "d9fef9f0-cc9e-47cf-b2c7-4f3d8367c61f",
     "pattern": "*",
     "priority": 2,
